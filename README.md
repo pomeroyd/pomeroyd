@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django and Python
 - 🌱 I’m currently learning more Django
 - 💞️ I’m looking to collaborate on tools to help small businesses
-- 📫 How to reach me [at Linkedin](https://www.linkedin.com/in/david-pomeroy/)
+- 📫 How to reach me -> [at Linkedin](https://www.linkedin.com/in/david-pomeroy/)
 
 - Some work by me so far.
 - [Shed of David](https://www.shedofdavid.com)
