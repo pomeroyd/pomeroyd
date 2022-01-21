@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pomeroyd
+- 👋 Hi, I’m David (@pomeroyd)
 - 👀 I’m interested in Django and Python
 - 🌱 I’m currently learning more Django
 - 💞️ I’m looking to collaborate on tools to help small businesses
